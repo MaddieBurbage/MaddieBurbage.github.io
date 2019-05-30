@@ -1,8 +1,35 @@
 body {
-  margin: 100px;
+  margin: 100px auto;
+  width: 80%;
 }
-
+header {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+  padding:0px;
+  font-weight:bold;
+}
+header ul, footer ul {
+  list-style: none;
+}
+header ul li, footer ul li {
+  display: inline;
+  margin-right 20px;
+}
+a {
+  color: #7F9BB2;
+}
+a:hover {
+  text-shadow: 2px 2px 4px #66747F;
+}
 h1 {
-  font-size 3em;
-  font-family 'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 3em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #668299;
+}
+footer {
+  border-top: 1px solid #19354C;
+  font-size: .8em;
 }
