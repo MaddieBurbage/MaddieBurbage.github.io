@@ -1,0 +1,13 @@
+.mountains {
+  background-repeat: repeat-x;
+  background-image: url("/pictures/mountains.png");
+  height: 128px;
+  width: 100%;
+}
+.info {
+  overflow: hidden;
+}
+.info img {
+  float:right;
+  margin:0px;
+}
