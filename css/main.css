@@ -6,6 +6,7 @@ body {
 }
 .container {
   margin: 50px;
+  margin-top: 200px;
   padding-bottom:50px;
   overflow: auto;
 }
@@ -15,16 +16,13 @@ body {
 .block {
   width: 300px;
   margin: 5px;
-  border: 1px solid #33464C;
+  border: 2px solid #33464C;
   float: left;
   margin-bottom: 100px;
   display:block;
   font-size: 0;
-  background: #E5E5E5;
-
 }
 .block:hover {
-  border: 1px solid #668C99;
   font-size:1em;
 }
 .block img {
@@ -32,6 +30,7 @@ body {
 }
 .block p {
   margin: 5px;
+  margin-left: 10px;
   font-size:1em;
   display: none;
 }
@@ -40,14 +39,21 @@ body {
 }
 header {
   color: #FFFFFF;
-  padding:10px;
   margin:0px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: 0.2s;
   font-weight:bold;
   background-image: linear-gradient(to bottom right, #1BBCEE, #42D15F);
 }
-header ul, footer ul {
-  list-style: none;
+header ul {
+  transition: 0.2s;
+  margin: 20px;
+  margin-top: 30px;
+  margin-left: 40px;
 }
+
 header ul li, footer ul li {
   display: inline;
   margin-right: 40px;
@@ -60,6 +66,7 @@ a:hover {
   text-shadow: 1px 1px #19404C;
 }
 h1 {
+  transition: 0.2s;
   font-size: 3em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   margin: 50px;
