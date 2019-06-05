@@ -1,5 +1,8 @@
 .info {
-  display:inline-block;
+}
+.icon {
+  height: 144px;
+  width: 256px;
 }
 .panel {
   overflow:auto;
