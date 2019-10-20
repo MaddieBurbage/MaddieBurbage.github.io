@@ -70,10 +70,9 @@ header::after{
   clear:both;
 }
 header a {
-  text-decoration: none;
   color: #f2f2f2;
 }
-footer a {
+a {
   text-decoration: none;
   color: #182628;
 }
