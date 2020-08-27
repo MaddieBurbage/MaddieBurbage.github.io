@@ -1,7 +1,3 @@
 - name: Git, Github
   percentage: 95
   color: info
-
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
