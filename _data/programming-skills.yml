@@ -1,0 +1,11 @@
+- name: HTML5/CSS3
+  percentage: 90
+  color: danger
+
+- name: Go
+  percentage: 40
+  color:
+
+- name: PHP
+  percentage: 60
+  color: dark

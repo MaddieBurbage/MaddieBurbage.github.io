@@ -1,0 +1,16 @@
+- title: Research Assistant, Williams College Computer Science Department
+  from: 2020
+  to: present
+  description: Working with Professor Duane Bailey on hardware design for reconfigurable devices. After I assembled and configured the computers I'd be using for the summer, I focused on desigining circuitry and accelerators for FPGA boards. I used Chisel and Scala to generate Verilog circuit descriptions, which I then transferred to a Nexys A7 FPGA with Vivado. Besides designing configurable circuits I implemented several hardware accelerators for the open source Rocket Chip, a RISC-V processor created by UC Berkeley. To test these designs I created benchmarks with C and bash scripts.
+- title: CS Major, Williams College
+  from: 2018
+  to: 2022
+  description: Studying Computer Science, Math, and History in the beautiful Berkshires. Organizations like Williams Students Online have let me improve student services through my web development experience, while clubs like UNICS have been a great way to meet similarly motivated CS students. I've also loved my access to the outdoors here, and groups like the Williams Outing Club and the Sailing and Climbing teams have helped me explore novel activities in nature.
+- title: Camp Instructor, Coding With Kids
+  from: June 2018
+  to: August 2018
+  description: Taught coding lessons to beginner and intermediate students, ages 5-12. Developed computer, math, and critical thinking skills through animation and game design projects. Provided lessons and individualized instruction in Java, Scratch, robotics, and application design. Additionally, managed camp centers and electronic equipment.
+- title: Student, Lakeside School
+  from: 2014
+  to: 2018
+  description: Lakeside gave me a fantastic education for many subjects, and not just learning material but project management and presentation skills. This was true especially in CS, where beyond our surveys of Java and Object-Oriented Design, or Web Development and Arduino workshops, we got to design and produce our own applications.

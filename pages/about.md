@@ -1,0 +1,21 @@
+---
+layout: page
+title: About
+permalink: /about/
+weight: 3
+---
+
+# **About Me**
+
+Hi, I'm **{{ site.author.name }}** :wave:,<br>
+My journey with computers began in the mid-2000s, when two of my aunts showed a much younger me some of the wonders of technology. In the decades before Zoom became a household name, my aunt Denise has been revolutionizing virtual learning techniques for teaching the blind. I've been quite lucky to learn skills from her that would make anyone's time online more easy and fun. Years before I could type without finger pecking, she helped me explore the brave new world of the laptop through keyboard shortcuts instead of mouse clicks. I didn't fully realize how unique my early computer education was until much later, when I saw her teaching the same skills to technically-proficient adults. She taught me to use technology creatively, always questioning and experimenting with what we could adapt our machines for next. I also learned how incredibly powerful technology can be: how intractable problems are reduced to nothing after we produce seemingly-unrelated innovation.
+
+
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
