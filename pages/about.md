@@ -8,9 +8,9 @@ weight: 3
 # **About Me**
 
 Hi, I'm **{{ site.author.name }}** :wave:,<br>
-I'm excited to explore what computers are capable of, whether by solving complex problems through algorithms inspired by ants, researching how to evolve hardware to fit our needs, or harnesssing NLP techniques to help humans communicate better.
+I'm excited to explore what computers are capable of, whether by solving complex problems through algorithms inspired by ants, researching how to evolve hardware to fit our needs, or harnesssing NLP techniques to help humans communicate better. I've thoroughly enjoyed learning and researching topics related to **Computer Architecture** and **Reconfigurable Hardware Design**, although I have experience in **Web Development** from independent projects.
 
-I'm a junior at Williams so luckily I'll get to go back to the Berkshires this fall. I've always loved being outside, when I'm not online anyway, and my favorite activities have been bouldering (climbing for those who fear heights), skiing (which I can now say with authority is better on the West coast), and hiking (perfect for the college student in a rural town with no transport).
+I'm a junior at Williams so luckily I'll get to go back to the Berkshires this fall. I've always loved being outside, when I'm not online anyway, and my favorite activities have been **bouldering** (climbing for those who fear heights), **skiing** (which I can now say with authority is better on the West coast), and **hiking** (perfect for the college student in a rural town with no transport).
 
 
 

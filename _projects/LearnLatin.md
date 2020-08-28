@@ -5,7 +5,7 @@ image: /assets/LearnLatinHome.png
 description: The Learn Latin project includes a Latin reference website and language-learning tool.
 ---
 
-# The Learn Latin Website
+# The Learn Latin Website *2015-2017*
 Thanks to some amazingly engaging teachers, I somehow ended up taking Latin for 7 years rather than a more practical language, like Spanish or Chinese. Clearly there's a reason why the internet is awash with creative, interesting, or gimmicky language-learning sites for the latter two languages. Yet even if Latin serves a much smaller community, its students would be well-served by at least one good website.
 
 ## The Start
@@ -16,7 +16,7 @@ I'd had practice with a relative of Wordpress, Wordpress.com, through my adventu
 ![Homepage](/assets/LearnLatinHome.png)
 The colors were important: I wanted to give Latin all the classical prestige it deserved. This, of course, meant the primary color would be [Tyrian Purple](https://en.wikipedia.org/wiki/Tyrian_purple): an expensive dye prized by the Romans. But beyond the colors and looks, which were my first instinct considering the last practice site I'd seen had 0 CSS files, I really wanted to make sure the site was quick and easy to use. I filled it with encyclopedia-style articles on all the Latin grammar topics that a high school Latin student could expect to see, with plenty of examples in English and Latin. Here's a page on the uses of the Genitive case, which you think is easy when you first learn it, until you hear all the many many ways Romans liked to use it.
 ![Genitives Article](/assets/LearnLatinGenitive.png)
-It was quite a test of my memory, and grammar base, to review so many uses of a single case! But even while I created the site I found myself referring back to old articles to help me. When my Latin studies focused more on reading exciting epics or hilarious poems, and grammar specifics were less center-of-mind, having a fast source of information was invaluable.
+It was quite a test of my memory, and grammar base, to review so many uses of a single case! But even while I created the site I found myself referring back to old articles to help me. When my Latin studies began to focus more on reading exciting epics or hilarious poems, it meant grammar specifics were less center-of-mind. Then having a fast source of information was invaluable.
 ## The End
 One year after I started this site, I took my first high school coding class! Although I'd taught myself JavaScript to create some simple word drills on the site, I wanted to make them much more sophisticated. For a final project I got to achieve this, creating the Java program LatinaLingua (check it out on the projects page). And it was so satisfying to finally have the intelligent practice app that my friends in other language classes had always had access to.
 
