@@ -1,6 +1,6 @@
 ---
 name: Learn Latin
-tools: [Wordpress, JavaScript, Java, XML]
+tools: [Wordpress, JavaScript]
 image: /assets/LearnLatinHome.png
 description: The Learn Latin project includes a Latin reference website and language-learning tool.
 ---
@@ -20,4 +20,4 @@ It was quite a test of my memory, and grammar base, to review so many uses of a 
 ## The End
 One year after I started this site, I took my first high school coding class! Although I'd taught myself JavaScript to create some simple word drills on the site, I wanted to make them much more sophisticated. For a final project I got to achieve this, creating the Java program LatinaLingua (check it out on the projects page). And it was so satisfying to finally have the intelligent practice app that my friends in other language classes had always had access to.
 
-It may not have been the wisest plan to attempt running a site with no ads on my limited high school summer-based income. Looking back, I'm not sure I would have changed that, but now that I'm making more than minimum wage I'd love to take the project on again. There are certainly some big updates I'd make; having done a lot of research in college I've been exposed to many more encyclopedias and wikis than in 2015. They each have some great design features that make reference and exploration easy and intuitive, and I'd love to redo the site with that in mind. I've also done a few more web projects by now! No longer limited to just Wordpress and JavaScript, I could integrate LearnLatina into the website itself, and extend the learning side of the site to be as comprehensive as the reference side.
+It may not have been the wisest plan to attempt running a site with no ads on my limited high school summer-based income. Looking back, I'm not sure I would have changed that, but now that I'm making more than minimum wage I'd love to take the project on again. There are certainly some big updates I'd make; having done a lot of research in college I've been exposed to many more encyclopedias and wikis than in 2015. They each have some great design features that make reference and exploration easy and intuitive, and I'd love to redo the site with that in mind. I've also done a few more web projects by now! No longer limited to just Wordpress and JavaScript, I could integrate LatinaLingua into the website itself, and extend the learning side of the site to be as comprehensive as the reference side.
