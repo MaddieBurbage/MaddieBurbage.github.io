@@ -5,7 +5,7 @@ image: /assets/LearnLatinHome.png
 description: The Learn Latin project includes a Latin reference website and language-learning tool.
 ---
 
-# The Learn Latin Website *2015-2017*
+# The Learn Latin Website, *2015-2017*
 Thanks to some amazingly engaging teachers, I somehow ended up taking Latin for 7 years rather than a more practical language, like Spanish or Chinese. Clearly there's a reason why the internet is awash with creative, interesting, or gimmicky language-learning sites for the latter two languages. Yet even if Latin serves a much smaller community, its students would be well-served by at least one good website.
 
 ## The Start
@@ -18,6 +18,6 @@ The colors were important: I wanted to give Latin all the classical prestige it 
 ![Genitives Article](/assets/LearnLatinGenitive.png)
 It was quite a test of my memory, and grammar base, to review so many uses of a single case! But even while I created the site I found myself referring back to old articles to help me. When my Latin studies began to focus more on reading exciting epics or hilarious poems, it meant grammar specifics were less center-of-mind. Then having a fast source of information was invaluable.
 ## The End
-One year after I started this site, I took my first high school coding class! Although I'd taught myself JavaScript to create some simple word drills on the site, I wanted to make them much more sophisticated. For a final project I got to achieve this, creating the Java program LatinaLingua (check it out on the projects page). And it was so satisfying to finally have the intelligent practice app that my friends in other language classes had always had access to.
+One year after I started this site, I took my first high school coding class! Although I'd taught myself JavaScript to create some basic word practice drills on the site, I wanted to make them much more sophisticated. For a final project I got to achieve this, creating the Java program LatinaLingua (check it out on the projects page). And it was so satisfying to finally have the intelligent practice app that my friends in other language classes had always had access to.
 
 It may not have been the wisest plan to attempt running a site with no ads on my limited high school summer-based income. Looking back, I'm not sure I would have changed that, but now that I'm making more than minimum wage I'd love to take the project on again. There are certainly some big updates I'd make; having done a lot of research in college I've been exposed to many more encyclopedias and wikis than in 2015. They each have some great design features that make reference and exploration easy and intuitive, and I'd love to redo the site with that in mind. I've also done a few more web projects by now! No longer limited to just Wordpress and JavaScript, I could integrate LatinaLingua into the website itself, and extend the learning side of the site to be as comprehensive as the reference side.
