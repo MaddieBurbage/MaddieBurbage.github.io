@@ -8,6 +8,9 @@ description: The Latina Lingua program is a helpful language-practice tool for L
 # The Latina Lingua Program, *2017*
 The inspiration for this project comes from a prior [Latin Excursion](/projects/LearnLatin) (I know – How many developers devote multiple projects to a dead language?!?). After multiple years of working on my Latin-learning website, I still wanted to improve the sorry state of Latin practice software. So after a year of learning Java and object-oriented design skills, I decided to put them to good use.
 
+{% include elements/button.html link="https://github.com/MaddieBurbage/LatinaLingua" text="Check out the code" %}
+
+
 ## The Motivation
 Latina Lingua is a smart word-practice tool for Latin learners of all levels. The way Latin is set up, sentences take on meaning based on the endings of different words. English has this to some extent: adding 's' to many nouns changes them from singular to plural. However, in Latin, most nouns can have 12 different forms, not 2, because endings also tell you the noun's role in the sentence. The other tricky part is that different nouns follow different patterns of endings, so there are 5-6 main patterns that nouns can follow, and they vary even more depending on the gender of the noun. Not to mention that verbs, adjectives, pronouns, etc. all have their own endings. All these variations add up to...a lot of memorization! And not much technological help.
 
