@@ -51,7 +51,7 @@ When we write efficient algorithms to exhaustively consider sets of items, we tr
 
 # Projects
 
-**FixIt:** when you need tech support, who do you call? I designed the backend for an MVP for a startup that helps tech workers and tech users connect to solve problems.
+**LeapSolve:** when you need tech support, who do you call? I designed the backend for an MVP for a startup that helps tech workers and tech users connect to solve problems.
 
 **Williams Students Online:** in a world full of choices, students are faced with one huge one: what class should I take next? I updated the backend for our campus website's course--review system.
 
